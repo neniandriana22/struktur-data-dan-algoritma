@@ -1,0 +1,7 @@
+D:\STRUKTUR DATA DAN ALGORITMA\pertemuan9_NeniAndriana\bin\Debug\pertemuan9_NeniAndriana.exe.config
+D:\STRUKTUR DATA DAN ALGORITMA\pertemuan9_NeniAndriana\bin\Debug\pertemuan9_NeniAndriana.exe
+D:\STRUKTUR DATA DAN ALGORITMA\pertemuan9_NeniAndriana\bin\Debug\pertemuan9_NeniAndriana.pdb
+D:\STRUKTUR DATA DAN ALGORITMA\pertemuan9_NeniAndriana\obj\Debug\pertemuan9_NeniAndriana.csproj.AssemblyReference.cache
+D:\STRUKTUR DATA DAN ALGORITMA\pertemuan9_NeniAndriana\obj\Debug\pertemuan9_NeniAndriana.csproj.CoreCompileInputs.cache
+D:\STRUKTUR DATA DAN ALGORITMA\pertemuan9_NeniAndriana\obj\Debug\pertemuan9_NeniAndriana.exe
+D:\STRUKTUR DATA DAN ALGORITMA\pertemuan9_NeniAndriana\obj\Debug\pertemuan9_NeniAndriana.pdb

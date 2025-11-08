@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\pertemuan12_NeniAndriana\bin\Debug\pertemuan12_NeniAndriana.exe.config
+C:\Users\USER\source\repos\pertemuan12_NeniAndriana\bin\Debug\pertemuan12_NeniAndriana.exe
+C:\Users\USER\source\repos\pertemuan12_NeniAndriana\bin\Debug\pertemuan12_NeniAndriana.pdb
+C:\Users\USER\source\repos\pertemuan12_NeniAndriana\obj\Debug\pertemuan12_NeniAndriana.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\pertemuan12_NeniAndriana\obj\Debug\pertemuan12_NeniAndriana.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\pertemuan12_NeniAndriana\obj\Debug\pertemuan12_NeniAndriana.exe
+C:\Users\USER\source\repos\pertemuan12_NeniAndriana\obj\Debug\pertemuan12_NeniAndriana.pdb
